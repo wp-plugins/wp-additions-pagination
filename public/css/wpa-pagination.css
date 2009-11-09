@@ -1,0 +1,74 @@
+
+.tablenav-pages {
+  position: relative;
+}
+
+.tablenav-pages span.wpa-slider {
+  float: left;
+  height: 0.8em !important;
+  width: 200px;
+  margin: 18px 10px 0 10px !important;
+  display: none;
+}
+
+  .tablenav-pages span.wpa-slider a {
+    padding: 0 !important;
+  }
+  
+.tablenav-pages span.wpa-slider-pages {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  text-align: right;
+  line-height: 1.5;
+}
+
+.tablenav-pages .ui-corner-all {
+  -moz-border-radius-bottomleft: 8px !important;
+  -moz-border-radius-bottomright: 8px !important;
+  -moz-border-radius-topleft: 8px !important;
+  -moz-border-radius-topright: 8px !important;
+}
+
+  .tablenav-pages .ui-widget-content {
+    -moz-background-clip: border;
+    -moz-background-inline-policy: continuous;
+    -moz-background-origin: padding;
+    border: 1px solid #DFDFDF;
+    color: #222222;
+  }
+
+  .tablenav-pages .ui-slider-horizontal {
+    height: 0.8em;
+  }
+
+  .tablenav-pages .ui-slider {
+    position: relative;
+    text-align: left;
+    background-color: #FFFFFF;
+  }
+  
+  .tablenav-pages .ui-slider-horizontal .ui-slider-handle {
+    margin-left: -0.6em;
+    top: -0.3em;
+  }
+  
+  .tablenav-pages .ui-slider .ui-state-active {
+    background: #EEEEEE url(/wp-admin/images/white-grad-active.png) repeat-x scroll top center !important;
+    border-color: #6D6D6D !important;
+  }
+
+  .tablenav-pages .ui-slider .ui-slider-handle {
+    cursor: default;
+    height: 1.2em;
+    position: absolute;
+    width: 1.2em;
+    z-index: 2;
+    background: #F2F2F2 url(/wp-admin/images/white-grad.png) repeat-x scroll center center;
+    border-color: #BBBBBB !important;
+  }
+  
+  .tablenav-pages .ui-widget-content a {
+    color: #464646;
+  }
+  
