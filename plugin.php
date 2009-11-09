@@ -3,7 +3,7 @@
  * Plugin Name: WP Additions - Pagination
  * Plugin URI: http://www.p51labs.com/wordpress-additions-pagination/
  * Description: Converts Wordpress Admin Pagination (Posts, Pages, Comments, Users) to an AJAX Slider System.
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: Kevin Miller
  * Author URI: http://www.p51labs.com
  * Text Domain: wp-additions-pagination
