@@ -130,7 +130,6 @@ class wp_additions_pagination
 			add_action('admin_print_styles', array(&$this, 'admin_styles'));
 		}
 		add_action('wp_ajax_wpa_pagination', array(&$this, 'pagination'));
-	  return;
 	}
 
 	/**
