@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: admin, pagination, ajax, jquery, slider
 Requires at least: 2.6
 Tested up to: 2.9
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 This plugin converts Wordpress Admin Pagination (Posts, Pages, Comments, Users) to an AJAX Slider System.   
 
@@ -14,7 +14,7 @@ This plugin converts Wordpress Admin Pagination (Posts, Pages, Comments, Users) 
 
 == Installation ==
  
-1. Upload the whole `improved-user-experience` directory to the `/wp-content/plugins/` directory
+1. Upload the whole `wp-additions-pagination` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in Wordpress
 
 == Screenshots ==
@@ -41,6 +41,10 @@ Yes and No. If you are running less than version 2.8 then it will remove all jQu
 
 == Changelog ==
 
+= 1.0.3 = 
+
+	* Fixed Readme
+	
 = 1.0.2 = 
 
 	* Added version to plugin.
